@@ -7,7 +7,7 @@ O objetivo do desafio foi transformar um problema proposto em uma solução func
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- Python
+- JavaScript
 - Lógica de Programação
 - Estruturas condicionais
 - Laços de repetição
@@ -35,7 +35,7 @@ O objetivo do desafio foi transformar um problema proposto em uma solução func
 ## 📂 Estrutura do Projeto
 desafio-logica-dio/
 │
-├── desafio.py
+├── desafio.js
 └── README.md
 
 --- 
