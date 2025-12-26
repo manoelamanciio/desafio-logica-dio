@@ -33,6 +33,10 @@ O objetivo do desafio foi transformar um problema proposto em uma solução func
 ---
 
 ## 📂 Estrutura do Projeto
+desafio-logica-dio/
+│
+├── desafio.py
+└── README.md
 
 --- 
 
